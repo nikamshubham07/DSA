@@ -1,2 +1,2 @@
 # DSA
-here, i'm going to practice DSA
+here, i'm going to practice DSA.
